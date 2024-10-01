@@ -5,3 +5,6 @@
 [submodule "dfmirroR"]
 	path = dfmirroR
 	url = https://github.com/jacobpstein/dfmirror
+[submodule "usaidplot"]
+	path = usaidplot
+	url = https://github.com/jacobpstein/usaid_plot
