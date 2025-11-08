@@ -8,6 +8,3 @@
 [submodule "pii"]
 	path = pii
 	url = https://github.com/jacobpstein/pii
-[submodule "usaidplot"]
-	path = usaidplot
-	url = https://github.com/jacobpstein/usaid_plot
